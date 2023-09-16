@@ -49,6 +49,14 @@ Diante disso, considerando as Histórias de Usuário fornecidas como entrada, el
 ### Requisitos Não Funcionais (RNF)
 
 - |RNF-001| Deve ser compatível com os navegadores mais comuns.
-  ...
+-  ...
 
 Essa documentação de requisitos serve como um guia para o desenvolvimento, teste e validação da plataforma. A clareza e a abrangência desta especificação é importante para evitar retrabalho e problemas de escopo ao longo do ciclo de vida do projeto. Ela contribui para que o desenvolvimento da plataforma seja feito de modo estruturado e que a entrega atenda às expectativas dos usuários e aos critérios de qualidade estabelecidos.
+
+## Restrições
+
+|ID| Restrição |
+|--|-------------------------------------------------------|
+|01| Em analogia ao fato de que a plataforma é voltada para um público onde, a maioria recém se tornou independente, e que grande parte não é familiarizado com o ambiente culinário, a plataforma se restringe a receitas de simples execução. Podendo serem executadas por todos os usuários.
+|02| Seguindo a ideia de que muitas vezes o público alvo ainda não tem uma vida financeira estabelecida, o projeto é voltado para receitas de baixo custo, se tornando assim, abrangente para a maioria das classes sociais.
+|03| Pensando no bem-estar dos usuários, a plataforma é composta por uma biblioteca focada em receitas saudáveis, priorizando sempre que possível, o uso de ingredientes orgânicos e de baixo teor calórico.
