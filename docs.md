@@ -30,3 +30,25 @@ O publico-alvo do Projeto Rango são jovens recém saidos da casa dos pais, isso
 1. Eduardo Silva, 18 anos, recentemente aprovado na faculdade federal do estado vizinho. Em busca de um curso mais especializado e de correr atrás de seu sonho tomou a difícil decisão de sair da casa dos pais e morar sozinho em um ambiente completamente desconhecido. Eduardo possui muita ambição, porém é acompanhado de pouca experiência de se cuidar sozinho e busca informação para não passar tanta dificuldade.
 
 2. Mariana Freitas, 25 anos, formada em letras pela USP. Mora sozinha a dois anos e leciona língua portuguêsa em duas escolas diferentes. Possui uma vida muito corrida e raramente tem disposição e tempo para cozinhar, como forma de remediar isso acaba pedindo delivery com grande frequência, mas nunca acaba o mês com o saldo positivo.
+
+## Requisitos
+
+Essa documentação visa detalhar a identificação de documentação precisa dos requisitos funcionais e não funcionais de um sistemas, contribuindo para a definição precisa do escopo, avaliação de viabilidade e comunicação eficaz entre todas as partes envolvidas em um projeto.
+
+Diante disso, considerando as Histórias de Usuário fornecidas como entrada, elaboramos uma lista de requisitos que abrange tanto os aspectos funcionais quanto os não funcionais da solução proposta.
+
+### Requisitos Funcionais (RF)
+
+- |RF-001| Permitir que o usuário cadastre receitas.
+- |RF-002| Permitir que o usuário edite as receitas postadas.
+- |RF-003| Permitir que o usuário exclua receitas.
+- |RF-004| Permitir que o usuário favorite as receitas.
+- |RF-005| Permitir que o usuário deixe comentários.
+- |RF-006| Fornecer uma interface de usuário intuitiva para cadastro e filtragem de receitas.
+
+### Requisitos Não Funcionais (RNF)
+
+- |RNF-001| Deve ser compatível com os navegadores mais comuns.
+  ...
+
+Essa documentação de requisitos serve como um guia para o desenvolvimento, teste e validação da plataforma. A clareza e a abrangência desta especificação é importante para evitar retrabalho e problemas de escopo ao longo do ciclo de vida do projeto. Ela contribui para que o desenvolvimento da plataforma seja feito de modo estruturado e que a entrega atenda às expectativas dos usuários e aos critérios de qualidade estabelecidos.
