@@ -31,6 +31,13 @@ O publico-alvo do Projeto Rango são jovens recém saidos da casa dos pais, isso
 
 2. Mariana Freitas, 25 anos, formada em letras pela USP. Mora sozinha a dois anos e leciona língua portuguêsa em duas escolas diferentes. Possui uma vida muito corrida e raramente tem disposição e tempo para cozinhar, como forma de remediar isso acaba pedindo delivery com grande frequência, mas nunca acaba o mês com o saldo positivo.
 
+
+## Histórias de Usuários
+
+Eu, como cliente Eduardo, quero sugestões de receitas  mais dificeis para fazer. Como estou morando sozinho e estudo na parte da manhã, tenho tempo livre durante a tarde e a noite. Minha idéia são refeições para o dia-a-dia, gosto de pratos que levam como ingredientes, carne vermelha, frutos do mar, especiarias de outras culturas, assim podendo ter a culinaria como minha terapia. 
+
+Eu, como cliente Mariana, quero sugestões de receitas práticas de se fazer. Como dou aula em duas escolas diferentes, não tenho muito tempo para cozinhar, preciso que sejam refeições práticas para o meu dia-a-dia e que se encaixam na minha dieta. Tenho em mente pratos que levam, frango, peixe e salada.
+
 ## Requisitos
 
 Essa documentação visa detalhar a identificação de documentação precisa dos requisitos funcionais e não funcionais de um sistemas, contribuindo para a definição precisa do escopo, avaliação de viabilidade e comunicação eficaz entre todas as partes envolvidas em um projeto.
