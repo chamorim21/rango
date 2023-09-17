@@ -56,8 +56,12 @@ Diante disso, considerando as Histórias de Usuário fornecidas como entrada, el
 
 ### Requisitos Não Funcionais (RNF)
 
-- |RNF-001| Deve ser compatível com os navegadores mais comuns.
-- ...
+- |RNF-001| O site deve ser fácil de usar, com uma interface intuitiva que permita aos usuários navegar facilmente pelas receitas, comentar e favoritar receitas sem dificuldades.
+- |RNF-002| As páginas do site devem carregar rapidamente, com um tempo de resposta curto para proporcionar uma experiência de usuário ágil.
+- |RNF-003| Deve ser implementada segurança básica para proteger os dados dos usuários, como senhas e informações pessoais, contra acessos não autorizados.
+- |RNF-004| O site deve estar disponível a maior parte do tempo, com tempo de inatividade planejado mínimo para manutenção regular.
+- |RNF-005| O site deve funcionar bem nos navegadores mais comuns, como Chrome, Firefox e Safari.
+- |RNF-006| O site deve ser acessível para pessoas com deficiências, seguindo as diretrizes básicas de acessibilidade da Web.
 
 Essa documentação de requisitos serve como um guia para o desenvolvimento, teste e validação da plataforma. A clareza e a abrangência desta especificação é importante para evitar retrabalho e problemas de escopo ao longo do ciclo de vida do projeto. Ela contribui para que o desenvolvimento da plataforma seja feito de modo estruturado e que a entrega atenda às expectativas dos usuários e aos critérios de qualidade estabelecidos.
 
