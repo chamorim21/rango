@@ -27,6 +27,14 @@ O publico-alvo do Projeto Rango são jovens recém saídos da casa dos pais, iss
     - Profissionais recém inseridos no mercado de trabalho;
     - Jovens em transição que precisam de se sustentar de forma independente;
 
+# Especificações do Projeto
+
+Alguns elementos são essenciais para um bom planejamento do sistema, tais como os tópicos a serem apresentados a seguir. Um dos tópicos de extrema importância são as personas, que consistem em representações de personagens fictícios com o objetivo de destacar o principal consumidor e interessado no produto criado. Além disso, as histórias de usuários desempenham um papel fundamental, pois consistem em descrições objetivas das necessidades do usuário do ponto de vista dele.
+
+Outro elemento de grande importância são os requisitos funcionais, que englobam as funcionalidades e características esperadas do nosso programa. Por exemplo, isso envolve permitir que o usuário cadastre, edite, delete, favorite e comente receitas. Seguindo a mesma linha de raciocínio, temos os requisitos não funcionais, que abrangem como as funcionalidades serão entregues ao usuário do sistema, tais como uma página com carregamento rápido, interface intuitiva e proteção de dados . E por último, mas não menos importante, temos as restrições, que representam as limitações impostas à aplicação, como um site que contenha apenas receitas simples, de baixo custo e saudáveis.
+
+Essas seções visam contribuir para o resultado esperado do sistema de software.
+
 ## Personas
 
 1. Eduardo Silva, 18 anos, recentemente aprovado na faculdade federal do estado vizinho. Em busca de um curso mais especializado e de correr atrás de seu sonho tomou a difícil decisão de sair da casa dos pais e morar sozinho em um ambiente completamente desconhecido. Eduardo possui muita ambição, porém é acompanhado de pouca experiência de se cuidar sozinho e busca informação para não passar tanta dificuldade.
