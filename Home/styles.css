@@ -1,5 +1,4 @@
-/* styles.css */
-/* styles.css */
+
 body {
   font-family: "Roboto", sans-serif;
   background-color: #e2e8f0;
@@ -13,12 +12,12 @@ body {
 
 
 #SearchContainer {
-  margin-bottom: 20px; /* Add margin to create distance between the search bar and image rows */
+  margin-bottom: 20px; 
 }
 
 .image-row {
   display: flex;
-  gap: 60px; /* Adjust the gap between images within a row */
+  gap: 60px; 
 }
 
 .image-wrapper {
@@ -39,9 +38,9 @@ body {
   left: 0;
   width: 100%;
   bottom: 0px;
-  height: 100px; /* Adjust the height as needed */
-  background-color: rgba(245, 158, 11, 0.50); /* Orange rectangle with 50% opacity */
-  z-index: 2; /* Make sure it's above the image */
+  height: 100px; 
+  background-color: rgba(245, 158, 11, 0.50); 
+  z-index: 2; 
 }
 
 .image-text1 {
@@ -97,21 +96,21 @@ body {
   color: #000;
   line-height: normal;
   bottom: 20px;
-  bottom: 20px; /* Adjust the value to move it closer to the image */
+  bottom: 20px; 
   z-index: 3;
-  left: 0; /* Make sure it's at the left side */
-  right: 0; /* Make sure it's at the right side */
-  padding: 5px; /* Add padding for spacing */
+  left: 0; 
+  right: 0; 
+  padding: 5px; 
   text-align: center;
 }
 
-/* Add this CSS rule to adjust the position of the stars */
+
 .estrelas {
   position: absolute;
   bottom: 0;
   z-index: 3;
-  left: 50%; /* Center the stars horizontally */
-  transform: translateX(-50%); /* Center the stars horizontally */
+  left: 50%; 
+  transform: translateX(-50%); 
 }
 
 .image-text4 {
@@ -144,7 +143,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  position: relative; /* Position the header relative to allow absolute positioning of the SVG */
+  position: relative; 
 }
 
 #RangoHeader > span {
@@ -164,7 +163,7 @@ body {
   flex-shrink: 0;
   fill: url(<path-to-image>), lightgray 50% / cover no-repeat;
   position: absolute;
-  left: 20px; /* Adjust the left value to move the SVG to the left */
+  left: 20px; 
 }
 
 #RangoButton {
@@ -204,8 +203,8 @@ body {
 }
 
 #RangoInput {
-  width: 700px; /* Set the width to 100% to fill the available space */
-  max-width: 700px; /* Set the maximum width to maintain the old dimensions */
+  width: 700px; 
+  max-width: 700px; 
   height: 62px;
   padding: 10px;
   border-radius: 8px;
@@ -268,8 +267,8 @@ body {
 
 .orange-background {
   width: 100%;
-  height: 211px; /* Adjust the height as needed */
-  background-color: #fb923c; /* Orange background with 50% opacity */
+  height: 211px; 
+  background-color: #fb923c; 
 }
 
 .footer-content {
