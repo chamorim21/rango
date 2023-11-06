@@ -1,0 +1,14 @@
+.box .fundo-laranjinha {
+  height: auto;
+  margin: 10px;
+  width: 800px;
+  background-color: #fed7aa;
+  border-radius: 18px;
+  border: 1px solid;
+  border-color: #000000;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.text-wrapper {
+    margin: 20px;
+}
