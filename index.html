@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Inicial</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Roboto:wght@400;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="./template/styles.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <img src="/logo.svg" alt="Rango">
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/Ajuda">Ajuda</a></li>
+            <li><a href="/Sobre_nos">Sobre nós</a></li>
+        </ul>
+        <a class="login-button" href="/Login">
+
+            Login
+        </a>
+    </header>
+    <main>
+        <div id="SearchContainer">
+            <input id="RangoInput" type="text" placeholder="Pesquisar Receitas" />
+            <button id="FilterButton">Filtros</button>
+        </div>
+        <div class="image-row">
+            <a class="card" href="/Receita">
+                <div class="image-wrapper">
+                    <img class="MyImage" src="/public/images/omelete.png" alt="Omelette">
+                    <div class="image-tag">
+                        <div class="image-text">Omelette</div>
+                    </div>
+                </div>
+                <div class="image-caption-text">
+                    Por <span class="underline-text">Marcos</span>
+                </div>
+                <div>
+                    <img src="/public/images/estrelas.svg" alt="Estrelas" class="estrelas">
+                </div>
+            </a>
+            <a class="card" href="/Receita">
+                <div class="image-wrapper">
+                    <img class="MyImage" src="/public/images/pizza.png" alt="Omelette">
+                    <div class="image-tag">
+                        <div class="image-text">Pizza</div>
+                    </div>
+                </div>
+                <div class="image-caption-text">
+                    Por <span class="underline-text">Giovanna</span>
+                </div>
+                <div>
+                    <img src="/public/images/estrelas.svg" alt="Estrelas" class="estrelas">
+                </div>
+            </a>
+        </div>
+        <div class="image-row">
+            <a class="card" href="/Receita">
+                <div class="image-wrapper">
+                    <img class="MyImage" src="/public/images/macarrão.png" alt="Omelette">
+                    <div class="image-tag">
+                        <div class="image-text">Macarrão</div>
+                    </div>
+                </div>
+                <div class="image-caption-text">
+                    Por <span class="underline-text">Aline</span>
+                </div>
+                <div>
+                    <img src="/public/images/estrelas.svg" alt="Estrelas" class="estrelas">
+                </div>
+            </a>
+            <a class="card" href="/Receita">
+                <div class="image-wrapper">
+                    <img class="MyImage" src="/public/images/salada.png" alt="Omelette">
+                    <div class="image-tag">
+                        <div class="image-text">Salada</div>
+                    </div>
+                </div>
+                <div class="image-caption-text">
+                    Por <span class="underline-text">Júlio</span>
+                </div>
+                <div>
+                    <img src="/public/images/estrelas.svg" alt="Estrelas" class="estrelas">
+                </div>
+            </a>
+        </div>
+    </main>
+    <footer>
+        <div class="contact">
+            <p>Quer falar com a gente?</p>
+            <p>Telefone: (xx) xxxx-xxxx</p>
+            <p>E-mail: rangosuporte@gmail.com</p>
+        </div>
+        <p>&copy; 2023 Rango</p>
+    </footer>
+</body>
+
+</html>
